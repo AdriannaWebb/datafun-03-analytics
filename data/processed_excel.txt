@@ -1,0 +1,54 @@
+Statistics for c1:
+Mean: 233.62962962962962
+Median: 232.0
+Standard Deviation: 21.731133547106218
+Max: 274
+Min: 193
+Statistics for p1:
+Mean: 33.370370370370374
+Median: 34.0
+Standard Deviation: 9.21599006805416
+Max: 48
+Min: 17
+Statistics for r1:
+Mean: 20.999999888888883
+Median: 20.200001
+Standard Deviation: 5.144451697628361
+Max: 29.200001
+Min: 10.3
+Statistics for c2:
+Mean: 160.2962962962963
+Median: 159.0
+Standard Deviation: 12.814699536724389
+Max: 191
+Min: 135
+Statistics for p2:
+Mean: 32.96296296296296
+Median: 32.0
+Standard Deviation: 10.408877429614076
+Max: 49
+Min: 10
+Statistics for r2:
+Mean: 18.848148185185185
+Median: 18.0
+Standard Deviation: 5.761434829674062
+Max: 29.1
+Min: 5.5
+Statistics for c3:
+Mean: 280.44444444444446
+Median: 280.0
+Standard Deviation: 27.621526350814104
+Max: 335
+Min: 236
+Statistics for p3:
+Mean: 33.44444444444444
+Median: 37.0
+Standard Deviation: 9.48818428497471
+Max: 47
+Min: 14
+Statistics for r3:
+Mean: 24.38518511111111
+Median: 23.4
+Standard Deviation: 5.39163882398131
+Max: 33.299999
+Min: 10.6
